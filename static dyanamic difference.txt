@@ -1,0 +1,10 @@
+---> Static Website
+Static Web pages are very simple. 
+It is written in languages such as HTML, JavaScript, CSS, etc. 
+For static web pages when a server receives a request for a web page, then the server sends the response to the client without doing any additional process
+
+
+---> Dynamic Website
+Dynamic Web Pages are written in languages such as CGI, AJAX, ASP, ASP.NET, etc. 
+In dynamic web pages, the Content of pages is different for different visitors. 
+It takes more time to load than the static web page
