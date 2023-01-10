@@ -1,0 +1,11 @@
+-->Go to your profile on github.com
+-->Click on "Repositories"
+-->Click "New" towards the top-right of the screen
+-->Give your repository a name. Avoid spaces and silly characters
+-->Give your repository a description. Be as descriptive as you can, explain the purpose of the repository
+-->Set your repository to "public" or "private," I suggest public unless required to keep with the spirit of GitHub
+-->Check the "Initialize this repository with a README" box unless you have already run git init in a directory via Terminal
+-->If you know you want to ignore a specific code language, select it in the "Add .gitignore" dropbox, we can add specific folders and files to this later on
+-->Give your repository a usage license. I suggest looking at this site; I prefer the MIT license
+-->Click, "Create repository"
+-->Clone your repository to your local machine
