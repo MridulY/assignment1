@@ -1,0 +1,9 @@
+1. Open Powershell
+2. Run the ssh-keygen command to create SSH keys
+3. Copy the value of the SSH public key
+4. Save the public key in your GitHub account settings
+5. Perform a Git clone operation using your repo's SSH url
+
+
+
+---> To generate SSH keys we use ssh-keygen command in command prompt or powershell
